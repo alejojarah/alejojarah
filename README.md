@@ -52,11 +52,11 @@ Analytics engineering portfolio project focused on project controls. The project
 
 **Current stage:** Synthetic data design.
 
-### [Emotion-Recognition-Physiological-Signals](https://github.com/alejojarah/emotion-recognition-physiological-signals) 
+### [Emotion Recognition from Physiological Signals](https://github.com/alejojarah/emotion-recognition-physiological-signals) 
 
 Artificial Intelligence specialization project developed by a team of three members using the Bio5D dataset. The project evaluated emotional-state recognition using ECG, EMG, PPG, GSR, and respiration signals from 72 participants.
 
-My contribution included multichannel dataset preparation, five-second signal segmentation, subject-level train/validation/test splitting, and the implementation and evaluation of CNN-1D and Medformer architectures with TensorFlow/Keras.
+My contribution included multichannel dataset preparation, five-second signal segmentation, subject-level train/validation/test splitting, and the implementation and evaluation of a CNN-1D and a Medformer-inspired Transformer architecture using TensorFlow/Keras.
 
 **Repository:** [View project](https://github.com/alejojarah/emotion-recognition-physiological-signals)
 
