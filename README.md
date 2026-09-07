@@ -52,7 +52,7 @@ Analytics engineering portfolio project focused on project controls. The project
 
 **Current stage:** Synthetic data design.
 
-### [Project Control Analytics Platform](https://github.com/alejojarah/emotion recognition from physiological signals) 
+### [Emotion-Recognition-Physiological-Signals](https://github.com/alejojarah/emotion-recognition-physiological-signals) 
 
 Artificial Intelligence specialization project developed by a team of three members using the Bio5D dataset. The project evaluated emotional-state recognition using ECG, EMG, PPG, GSR, and respiration signals from 72 participants.
 
