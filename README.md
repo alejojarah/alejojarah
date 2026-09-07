@@ -58,7 +58,7 @@ Artificial Intelligence specialization project developed by a team of three memb
 
 My contribution included multichannel dataset preparation, five-second signal segmentation, subject-level train/validation/test splitting, and the implementation and evaluation of CNN-1D and Medformer architectures with TensorFlow/Keras.
 
-**Repository:** Currently being prepared for publication.
+**Repository:** [View project](https://github.com/alejojarah/emotion-recognition-physiological-signals)
 
 ### Agricultural Field Records Platform
 
